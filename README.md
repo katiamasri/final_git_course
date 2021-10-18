@@ -1,2 +1,4 @@
 # final_git_course
-fir practecing
+for practecing
+#the end of git and github course
+#####with a small project
